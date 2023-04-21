@@ -1,10 +1,9 @@
-# Generic Project Template
+# Welcome
 
-This repository provides some base files for setting up a repository at
-CDS. Plan is to create more project template for specific technologies:
+This repository is a space where we'll identify common content problems, gaps and needs across Platform.
 
-- project-template-terraform
-- project-template-python
-- project-template-nodejs
+---
 
-Note that default community health files are maintained at https://github.com/cds-snc/.github 
+# Bienvenue
+
+Ce référentiel est un espace où nous identifierons les problèmes, les lacunes et les besoins communs en matière de contenu dans Plateforme.
