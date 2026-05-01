@@ -2,12 +2,25 @@
 
 This repository is a space where we'll identify and try to solve common content problems, gaps, and needs across Platform. We're focused on writing so people do not have to read closely to understand what they need to know and do. The goal, ultimately, is to arrive at a better, more inclusive and cohesive user experience.
 
-Documenting:
+## Purpose:
+- Problem to solve: **Reduce decision fatigue among teams**
+- Pain points experienced: 
+  - Bilingual content system
+  - Easy and quick access to rationale 
+  - Iterative – needs to evolve over time as we learn more
+  - Governance and maintenance
+  - Rotten links 
+  - Guidance call-to-action
+  - Alignment / Consistency / cohesiveness / familiarity 
+  - Not reinventing the wheel every time
+  - Not working interdisciplinarily 
+  - Not scoped clearly 
+
+  ## Documenting:
 - best practices and product content decisions
 - principles and standards for style, voice, tone
 - bilingual terminology
 - research on readability and cognition
-
 
 ---
 
