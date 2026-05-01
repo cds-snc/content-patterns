@@ -16,7 +16,7 @@ This repository is a space where we'll identify and try to solve common content 
   - Not working interdisciplinarily 
   - Not scoped clearly 
 
-  ## Documenting:
+### Documenting:
 - best practices and product content decisions
 - principles and standards for style, voice, tone
 - bilingual terminology
